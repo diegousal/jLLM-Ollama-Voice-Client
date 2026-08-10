@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/controller/Controller.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/LLMCSV.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/Model.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/Message.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/view/ApplicationView.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/JSONRepository.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/view/VoiceConsoleView.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/XMLRepository.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/LLMSmart.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/Frase.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/LLMFake.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/main/Main.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/Conversation.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/view/SimpleConsoleView.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/jLLM/src/model/ILLM.java</file>
+        </group>
+    </open-files>
+</project-private>
